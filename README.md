@@ -10,5 +10,6 @@ U/P: admin/admin
 
 Lancer ce script dans votre répertoire racine du projet
 
-## 2) Lancer le script -- scanner.bat -- : Scanner un projet 
+## 2) Lancer le script -- scanner.bat PROJECT_NAME -- : Scanner un projet 
 
+> scanner SGMA_P1

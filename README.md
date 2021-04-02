@@ -7,9 +7,7 @@ Télécharger et installer docker : https://hub.docker.com/editions/community/do
 Url de sonarqube http://localhost:9000  
 U/P: admin/admin
 
-
-Lancer ce script dans votre répertoire racine du projet
-
 ## 2) Lancer le script -- scanner.bat PROJECT_NAME -- : Scanner un projet 
 
+Lancer ce script dans votre répertoire racine du projet
 > scanner SGMA_P1

@@ -5,6 +5,8 @@ Télécharger et installer docker : https://hub.docker.com/editions/community/do
 ## 1) Lancer le script -- installer.bat -- : Installer sonarqube & sonnar scanner
 
 Url de sonarqube http://localhost:9000
+U/P: admin/admin
+
 
 Lancer ce script dans votre répertoire racine du projet
 

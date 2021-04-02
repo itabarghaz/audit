@@ -1,6 +1,6 @@
 # SonarQube installation
 
-Télécharger installer docker : https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+Télécharger et installer docker : https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
 ## 1) Lancer le script -- installer.bat -- : Installer sonarqube & sonnar scanner
 
